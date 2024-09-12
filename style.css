@@ -8,10 +8,13 @@
     height: 100px;
     margin: 10px;
   }
-  img {
-    width: 400px;
-    border: 5px solid white;
-  }
+.caroimg{
+  width: 100%;
+  height:100%;
+}
   footer{
     margin-top: 300px;
   }
+
+
+  

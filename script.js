@@ -1,3 +1,4 @@
+// MY JAVA
 function information() { 
     document.getElementById('changeImage').src = 'imgs/christmastree.png'
     document.getElementById('response-text').innerText='Christmas tree, Oh Christmas tree! The first Christmas tree to be lit by electric lights was reportedly in the home of Edward H. Johnson, an associate of inventor Thomas Edison. This historic event took place on December 22, 1882, in New York City. Edward Johnson, who was an Edison employee, hand-wired 80 red, white, and blue electric light bulbs and decorated the Christmas tree in his home with them. This marked one of the early uses of electric lights for holiday decorations and contributed to the popularization of this practice in the years that followed. ' 
@@ -27,3 +28,7 @@ function information() {
     document.getElementById('response-text').innerText='December 22, 2007 11:26am, me! I was born! The blue-eyed, ginger-haired girl, that was born from two parents with dark hair and dark eyes. I question it too, trust me. '
       document.getElementById('response-date').innerText= 'December 22, 2007'
   }
+  // MY JAVA
+
+  // ANY CODEPEN
+  
