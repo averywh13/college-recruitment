@@ -16,7 +16,9 @@
 .row2 {
   padding-top: 500px;
 }
-
+.containerfade{
+margin-top: -350px;
+}
 
 /*CODEPEN: FADE-IN TEXT*/
 .fade-in-text {
@@ -25,7 +27,6 @@
   font-style: normal;
   color: rgb(255, 255, 255);
   position: relative;
-  margin-top: -650px;
   font-size: 4vw;
   z-index: 1;
   letter-spacing: 10px;
