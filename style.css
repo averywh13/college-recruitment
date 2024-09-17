@@ -17,9 +17,18 @@
   padding-top: 500px;
 }
 .containerfade{
-margin-top: -350px;
+  margin-top: -650px;
 }
-
+.containerpic{
+  margin-top: 500px;
+  margin-bottom: -600px;
+}
+.container2{
+margin-right: 55px;
+}
+.pic{
+  width: 50%;
+}
 /*CODEPEN: FADE-IN TEXT*/
 .fade-in-text {
   font-family: "continuo", sans-serif;
@@ -82,3 +91,9 @@ margin-top: -350px;
   }
 }
 /*CODEPEN: FADE-IN TEXT*/
+
+
+
+
+
+
