@@ -1,22 +1,65 @@
 // MY JAVA
 function information() { 
-    document.getElementById('response-text').innerText='Christmas tree, Oh Christmas tree! The first Christmas tree to be lit by electric lights was reportedly in the home of Edward H. Johnson, an associate of inventor Thomas Edison. This historic event took place on December 22, 1882, in New York City. Edward Johnson, who was an Edison employee, hand-wired 80 red, white, and blue electric light bulbs and decorated the Christmas tree in his home with them. This marked one of the early uses of electric lights for holiday decorations and contributed to the popularization of this practice in the years that followed. ' 
+    document.getElementById('changeImage1').src = 'imgs/lehighlogo.jpg'
+    document.getElementById('response-text1').innerText='Lehigh University, located in Bethlehem, Pennsylvania, is a private research university founded in 1865. It is known for its strong emphasis on engineering, business, and the liberal arts. The university offers a comprehensive range of undergraduate and graduate programs across its four colleges: the P.C. Rossin College of Engineering and Applied Science, the College of Business, the College of Arts and Sciences, and the College of Education. Lehigh’s commitment to interdisciplinary education encourages collaboration among different fields, preparing students for diverse career paths.  '
+
+    document.getElementById('changeImage2').src = 'imgs/lehighgeneral.jpg'
+    document.getElementById('response-text2').innerText='The campus itself is characterized by its beautiful, historic architecture and scenic views of the Lehigh Valley. With a vibrant student life, Lehigh offers a variety of extracurricular activities, including over 200 student organizations, Division I athletics, and numerous cultural events. The university fosters a strong sense of community, with smaller class sizes that promote personalized attention and close relationships between students and faculty.'
+
+    document.getElementById('changeImage3').src = 'imgs/lehighgeneral2.png'
+    document.getElementById('response-text3').innerText='The campus itself is characterized by its beautiful, historic architecture and scenic views of the Lehigh Valley. With a vibrant student life, Lehigh offers a variety of extracurricular activities, including over 200 student organizations, Division I athletics, and numerous cultural events. The university fosters a strong sense of community, with smaller class sizes that promote personalized attention and close relationships between students and faculty.' 
   } 
-  
+
+
+
   function programs() {
-    document.getElementById('response-text').innerText='Quick! Make a wish! The first asteroid to be discovered using photography was 323 Brucia. It was discovered by the American astronomer Max Wolf on December 22, 1891, at the Heidelberg Observatory in Germany. Max Wolf pioneered the use of astrophotography, a technique that involves taking photographs of the night sky, to detect and study asteroids and other celestial objects. The discovery of 323 Brucia marked a significant advancement in observational astronomy during the late 19th century'
-  } 
-  
+    document.getElementById('changeImage1').src = 'imgs/...'
+    document.getElementById('response-text1').innerText='....'
+
+    document.getElementById('changeImage2').src = 'imgs/...'
+    document.getElementById('response-text2').innerText='....'
+
+    document.getElementById('changeImage3').src = 'imgs/...'
+    document.getElementById('response-text3').innerText='....'
+  }
+
+
+
   function life() {
-    document.getElementById('response-text').innerText='John Wayne Gacy confesses to police to killing over two dozen boys and young men and burying their bodies under his suburban Chicago home. In March 1980, Gacy was convicted of 33 sex-related murders, committed between 1972 and 1978, and later given the death penalty. '
+    document.getElementById('changeImage1').src = 'imgs/...'
+    document.getElementById('response-text1').innerText='.....'
+
+    document.getElementById('changeImage2').src = 'imgs/...'
+    document.getElementById('response-text2').innerText='.....'
+
+    document.getElementById('changeImage3').src = 'imgs/...'
+    document.getElementById('response-text3').innerText='.....'
   }
   
+
+
   function cost() {
-    document.getElementById('response-text').innerText='Richard C. Reid boarded American Airlines Flight 63 from Paris to Miami with homemade bombs hidden in his shoes. During the flight, Reid tried to detonate his shoes, but struggled to light the fuse. Crew members and passengers noticed and restrained him. FBI agents determined that the shoes contained about ten ounces of explosive material. During a preliminary hearing. and FBI agent reveals how dangerous the bomb was. She said that the bomb techs determined that the bomb would have blown a hole in the planes fuselage and caused the plant to crash if it has detonated. '
+    document.getElementById('changeImage1').src = 'imgs/...'
+    document.getElementById('response-text1').innerText='......'
+
+    document.getElementById('changeImage2').src = 'imgs/...'
+    document.getElementById('response-text2').innerText='......'
+
+    document.getElementById('changeImage3').src = 'imgs/...'
+    document.getElementById('response-text3').innerText='......'
   }
   
+
+
   function alumni() {
-    document.getElementById('response-text').innerText='December 22, 2007 11:26am, me! I was born! The blue-eyed, ginger-haired girl, that was born from two parents with dark hair and dark eyes. I question it too, trust me. '
+    document.getElementById('changeImage1').src = 'imgs/..'
+    document.getElementById('response-text1').innerText='.......'
+
+    document.getElementById('changeImage2').src = 'imgs/...'
+    document.getElementById('response-text2').innerText='.......'
+
+    document.getElementById('changeImage3').src = 'imgs/...'
+    document.getElementById('response-text3').innerText='.......'
   }
   // MY JAVA
 
