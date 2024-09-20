@@ -13,7 +13,7 @@ function information() {
 
 
   function programs() {
-    document.getElementById('changeImage1').src = 'imgs/lehighprograms1.jpeg'
+    document.getElementById('changeImage1').src = 'imgs/lehighprograms1.jpg'
     document.getElementById('response-text1').innerText='Lehigh University offers a wide variety of majors across if fours colleges. The P.C. Rossin College of Engineering and Applied Science which is known for mechanical, civil, electrical engineering, as well as bioengineering and computer science majors. The College of Business is known for its finance, marketing, accounting, economics, supply chain management, and business analytics majors. The College of Arts and Sciences is known for its psychology, political science, biology, english, international relations, and environmental science majors. The College of Education is known for its counseling, educational leadership. instructional technology, and school psychology majors. Lastly, the Interdisciplinary programs are an integrated degrees in engineering, arts, and sciences, as well as cognitive science and environmental studies majors.'
 
     document.getElementById('changeImage2').src = 'imgs/lehighprograms2.jpeg'
