@@ -44,6 +44,10 @@ background-color: #372516;
 padding:45px 0 20px;
 }
 
+.butn:hover {
+  background-color: #503315 !important; 
+  border:solid 3px #2f1b08 !important;
+}
 
 /*CODEPEN: FADE-IN TEXT*/
 .fade-in-text {
